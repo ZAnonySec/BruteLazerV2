@@ -4,6 +4,7 @@ Its BruteLazer but much more powerfull #Dont use it for having fun kiddos use it
 V2 UPDATE
 #More powerfull
 #Spoofed IP
+#Ping 
 
 More update coming soon!
 
